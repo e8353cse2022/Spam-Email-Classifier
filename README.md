@@ -125,17 +125,3 @@ This project demonstrates a complete NLP-based machine learning pipeline for spa
 
 ---
 
-## 👤 Author
-
-**Vaibhav Ijale**
-
----
-
-If you want, I can also provide:
-
-* **requirements.txt**
-* **Viva / interview answers**
-* **GitHub description**
-* **Deployment guide**
-
-Just tell me 👍
